@@ -7,6 +7,7 @@ https://user-images.githubusercontent.com/91307335/169681190-188d3d8a-e1c1-400d-
 
 <br>
 Flutter クライアントアプリから NotionDB を操作することができるアプリ。
+＊現状は読み取りのみ
 
 ## 仕様
 
