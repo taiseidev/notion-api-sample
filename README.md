@@ -1,5 +1,11 @@
 # notion_api_sample
 
+
+
+https://user-images.githubusercontent.com/91307335/169681190-188d3d8a-e1c1-400d-8164-f765b6205dbb.mov
+
+
+
 notinoDB と Flutter のサンプルプロジェクト
 Flutter クライアントアプリから NotionDB を操作することができるアプリ。
 
