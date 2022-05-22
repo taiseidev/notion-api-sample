@@ -6,7 +6,7 @@ https://user-images.githubusercontent.com/91307335/169681190-188d3d8a-e1c1-400d-
 
 
 <br>
-Flutter クライアントアプリから NotionDB を操作することができるアプリ。
+Flutter クライアントアプリから NotionDB を操作することができるアプリ。<br>
 ＊現状は読み取りのみ
 
 ## 仕様
@@ -27,5 +27,5 @@ NOTION_DATABASE_ID={DATABASE_ID}
 
 ## API
 
-NotionAPI
+NotionAPI<br>
 https://developers.notion.com/docs/
